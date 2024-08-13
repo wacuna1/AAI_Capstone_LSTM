@@ -17,6 +17,10 @@ We use data from the Alpha Vantage API, including:
 - Daily stock prices (open, high, low, close, adjusted close)
 - Technical indicators (SMA, RSI, MACD, Bollinger Bands, etc.)
 
+## Code
+Capstone_Time_Series_Neural_Network_Model_Comparison.ipynb has all our code for this project.
+
+
 ## Models
 
 1. LSTM: 12 layers, hidden size of 32, dropout rate of 0.3
